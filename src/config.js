@@ -6,10 +6,6 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/shaileshkumar97',
     },
-    // {
-    //   name: 'Instagram',
-    //   url: 'https://www.instagram.com/bchiang7',
-    // },
     {
       name: 'Twitter',
       url: 'https://twitter.com/shailesh_kumarJ',
@@ -18,10 +14,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/shailesh-kumar-2171a814b/',
     },
-    // {
-    //   name: 'Codepen',
-    //   url: 'http://medium.com/@shailesh-kumar',
-    // },
     {
       name: 'Medium',
       url: 'http://medium.com/@shailesh-kumar',
