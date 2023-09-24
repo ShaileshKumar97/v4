@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Python',
+    'PyTorch',
+    'Milvus',
+    'FAISS',
+    'Docker',
+    'LLMs (open, closed source)',
+    'Langchain',
+    'Llama Index',
+    'FastAPI',
+    'Streamlit',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +146,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Shailesh Kumar, a dedicated data scientist with a passion for
+              problem-solving through machine learning &amp; AI!
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              In my role, I lead projects and work directly with clients in the dynamic domains of
+              MLOps and generative AI products. With a strong foundation in Python programming and a
+              knack for designing efficient data processing and ML pipelines, I've consistently
+              delivered successful outcomes. My main focus these days is building accessible,
+              inclusive products and digital experiences at{' '}
+              <a href="https://katonic.ai/">Katonic AI</a> for a variety of clients.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
+              Last year I collaborated with the Team and{' '}
+              <a href="https://www.udemy.com/course/katonic-mlops-certification-course/">
                 launched a course
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              that covers everything you need to build an end-to-end ML project from data collection
+              from different sources to modeling &amp; deployment.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
