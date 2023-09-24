@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'ExplainIT'
-cover: './halcyon.png'
+cover: './explainit.png'
 github: 'https://github.com/katonic-dev/explainit'
 external: 'https://pypi.org/project/explainit/'
 tech:
